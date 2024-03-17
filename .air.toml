@@ -1,7 +1,6 @@
 root = "."
 testdata_dir = "testdata"
-tmp_dir = "/tmp"
-
+tmp_dir =
 [build]
   cmd = "go run ./cmd/palomad start"
   delay = 1000
